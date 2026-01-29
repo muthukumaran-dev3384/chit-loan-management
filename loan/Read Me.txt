@@ -1,0 +1,11 @@
+
+
+***** Admin Login ****
+   
+   UserName : admin
+   Password : admin123
+
+***** User Login ****
+
+   Email    : gopi@gmail.com
+   Password : 123456
